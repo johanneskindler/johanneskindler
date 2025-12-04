@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Contact
+
+![Static Badge](https://img.shields.io/badge/Matrix-gray?logo=matrix)
+
 ## 🔧 Tech Stack
 
 ![Static Badge](https://img.shields.io/badge/GitLab-grey?logo=gitlab&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/Gitea-grey?logo=gitea&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Argo_CD-gray?logo=argocd)
 
 ![Static Badge](https://img.shields.io/badge/Ansible-grey?logo=ansible&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/Terraform-grey?logo=Terraform&logoColor=purple)
@@ -31,11 +36,12 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/K3s-grey?logo=k3s)
 ![Static Badge](https://img.shields.io/badge/K9s-grey?logo=k9s)
 
-![Static Badge](https://img.shields.io/badge/Artifactory-grey?logo=artifactory&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Artifactory-grey?logo=jfrog&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/Harbor-grey?logo=Harbor)
 
 ![Static Badge](https://img.shields.io/badge/Apache--Cassandra-grey?logo=apache-cassandra)
 ![Static Badge](https://img.shields.io/badge/Apache--Kafka-grey?logo=apachekafka&logoColor=black)
+![Static Badge](https://img.shields.io/badge/EJBCA-gray?logo=ejbca)
 ![Static Badge](https://img.shields.io/badge/fluentbit-grey?logo=fluentbit&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Keycloak-grey?logo=keycloak&logoColor=lightblue)
 ![Static Badge](https://img.shields.io/badge/Nextcloud-grey?logo=Nextcloud&logoColor=blue)
@@ -44,6 +50,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/OpenLDAP-grey?logo=OpenLDAP)
 ![Static Badge](https://img.shields.io/badge/OpenSearch-grey?logo=opensearch&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Vault-grey?logo=vault)
+![Static Badge](https://img.shields.io/badge/Vaultwarden-gray?logo=vaultwarden)
 
 ![Static Badge](https://img.shields.io/badge/MariaDB-grey?logo=mariadb&logoColor=brown)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql)
