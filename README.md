@@ -58,6 +58,9 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/ICAP-grey?logo=icap)
 ![Static Badge](https://img.shields.io/badge/ClamAV-grey?logo=clamav)
+
+![Static Badge](https://img.shields.io/badge/Cloudflare-grey?logo=cloudflare)
+![Static Badge](https://img.shields.io/badge/OpenVPN-grey?logo=openvpn)
 ![Static Badge](https://img.shields.io/badge/Squid--Proxy-grey)
 ![Static Badge](https://img.shields.io/badge/WireGuard-grey?logo=wireguard&logoColor=darkred)
 
