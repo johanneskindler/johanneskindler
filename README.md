@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/NetBox-grey?logo=netbox&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/OpenLDAP-grey?logo=OpenLDAP)
 ![Static Badge](https://img.shields.io/badge/OpenSearch-grey?logo=opensearch&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Sentry-grey?logo=sentry&labelColor=red)
 ![Static Badge](https://img.shields.io/badge/Vault-grey?logo=vault)
 ![Static Badge](https://img.shields.io/badge/Vaultwarden-gray?logo=vaultwarden)
 
