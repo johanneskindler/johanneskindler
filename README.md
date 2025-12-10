@@ -77,3 +77,9 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Raspberry--Pi-grey?logo=raspberrypi&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/Ubuntu-grey?logo=ubuntu)
 
+## Learning
+![Static Badge](https://img.shields.io/badge/Cillium-grey?logo=cilium)
+![Static Badge](https://img.shields.io/badge/Hubble-grey?logo=hubble)
+![Static Badge](https://img.shields.io/badge/Tetragon-grey?logo=tetragon)
+
+
