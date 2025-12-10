@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Apache--Kafka-grey?logo=apachekafka&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/EJBCA-gray?logo=ejbca)
 ![Static Badge](https://img.shields.io/badge/fluentbit-grey?logo=fluentbit&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/HAProxy-grey?logo=haproxy)
 ![Static Badge](https://img.shields.io/badge/Keycloak-grey?logo=keycloak&logoColor=lightblue)
 ![Static Badge](https://img.shields.io/badge/Nextcloud-grey?logo=Nextcloud&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/minio-grey?logo=minio&logoColor=red)
