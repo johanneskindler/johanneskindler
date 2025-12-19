@@ -83,4 +83,8 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Hubble-grey?logo=hubble)
 ![Static Badge](https://img.shields.io/badge/Tetragon-grey?logo=tetragon)
 
+![Static Badge](https://img.shields.io/badge/Sonatype-grey?logo=sonatype)
+![Static Badge](https://img.shields.io/badge/cloudsmith-grey?logo=cloudsmith)
+
+
 
